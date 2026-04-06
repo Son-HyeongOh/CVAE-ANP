@@ -4,7 +4,7 @@
 저자 : 손형오, 최우성, 이영재, 김영균
 
 # Dataset
-<img width="840" height="560" alt="image" src="https://github.com/user-attachments/assets/e814ac95-1f3d-4e4e-ab59-6fb2df2f3382" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3e0b388-6458-413c-b75c-8abdcb4369d9" />
 
 This dataset is one of two industry-grade datasets captured during an 8-hour continuous operation of the manufacturing assembly line at the Future Factories Lab, University of South Carolina, on 08/13/2024.
 * Link : https://www.kaggle.com/datasets/ramyharik/ff-2024-08-13-multi-modal-dataset-13
@@ -16,6 +16,18 @@ This dataset is one of two industry-grade datasets captured during an 8-hour con
 2. VAE-LSTM : Comparative Model Files
 
 3. train_test : Training and Testing CVAE-ANP & VAE-LSTM
+
+# Model Architecture
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dbccb9dd-b449-4c85-a289-e3ddcaf1e762" />
+
+# Test Result
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bedf9f7-2a29-470e-9f9d-308355542834" />
+
+# Diagnosis Report
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79422270-7254-4e45-a838-7a7dafc1df25" />
 
 # AE(AutoEncoder)
 * Reference Code Link 1 : https://github.com/AntixK/PyTorch-VAE (VAE, CVAE)

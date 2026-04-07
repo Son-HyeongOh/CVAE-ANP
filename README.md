@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
 # CVAE-ANP
 주제 : 오토인코더-ANP 결합 모델을 통한 공정 이상 예측
 
@@ -21,13 +23,41 @@ This dataset is one of two industry-grade datasets captured during an 8-hour con
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dbccb9dd-b449-4c85-a289-e3ddcaf1e762" />
 
+## CVAE (Conditional Variational Autoencoder)
+- Conditional Probability Distribution Modeling
+
+Image Generation under Sensor: Conditions Generating expected images based on given sensor values
+
+Reconstruction Error Analysis: Comparing expected images with actual observed images
+
+Physical Defect Detection: Identifying morphological deformations and visual defects
+
+## ANP (Attentive Neural Process)
+- Cross-Attention Mechanism
+
+Multimodal Correlations: Learning interactions between image and sensor data
+
+Uncertainty Quantification: Calculating the mean and variance of the predictive distribution
+
+Key Variable Identification: Identifying the root cause of anomalies through variable importance
+
 # Test Result
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bedf9f7-2a29-470e-9f9d-308355542834" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bd05f2f0-a64f-4c24-accd-4d58f4a1c647" />
+
 # Diagnosis Report
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79422270-7254-4e45-a838-7a7dafc1df25" />
+
+Key Anomaly Variables(A): Identifying which variables significantly contributed to the anomaly determination.
+
+Reconstruction Error Heatmap(B): Visual identification of anomalies.
+
+Anomalous Component Indication(C): Visually confirming components with anomalous sensor data.
+
+Sensor Data Prediction Deviation(D): Quantifying uncertainty by outputting the mean and deviation of sensor data.
 
 # AE(AutoEncoder)
 * Reference Code Link 1 : https://github.com/AntixK/PyTorch-VAE (VAE, CVAE)

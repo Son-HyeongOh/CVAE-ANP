@@ -26,20 +26,20 @@ This dataset is one of two industry-grade datasets captured during an 8-hour con
 ## CVAE (Conditional Variational Autoencoder)
 - Conditional Probability Distribution Modeling
 
-Image Generation under Sensor: Conditions Generating expected images based on given sensor values
+1. Image Generation under Sensor: Conditions Generating expected images based on given sensor values
 
-Reconstruction Error Analysis: Comparing expected images with actual observed images
+2. Reconstruction Error Analysis: Comparing expected images with actual observed images
 
-Physical Defect Detection: Identifying morphological deformations and visual defects
+3. Physical Defect Detection: Identifying morphological deformations and visual defects
 
 ## ANP (Attentive Neural Process)
 - Cross-Attention Mechanism
 
-Multimodal Correlations: Learning interactions between image and sensor data
+1. Multimodal Correlations: Learning interactions between image and sensor data
 
-Uncertainty Quantification: Calculating the mean and variance of the predictive distribution
+2. Uncertainty Quantification: Calculating the mean and variance of the predictive distribution
 
-Key Variable Identification: Identifying the root cause of anomalies through variable importance
+3. Key Variable Identification: Identifying the root cause of anomalies through variable importance
 
 # Test Result
 
@@ -51,13 +51,13 @@ Key Variable Identification: Identifying the root cause of anomalies through var
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79422270-7254-4e45-a838-7a7dafc1df25" />
 
-Key Anomaly Variables(A): Identifying which variables significantly contributed to the anomaly determination.
+A. Key Anomaly Variables: Identifying which variables significantly contributed to the anomaly determination.
 
-Reconstruction Error Heatmap(B): Visual identification of anomalies.
+B. Reconstruction Error Heatmap: Visual identification of anomalies.
 
-Anomalous Component Indication(C): Visually confirming components with anomalous sensor data.
+C. Anomalous Component Indication: Visually confirming components with anomalous sensor data.
 
-Sensor Data Prediction Deviation(D): Quantifying uncertainty by outputting the mean and deviation of sensor data.
+D. Sensor Data Prediction Deviation: Quantifying uncertainty by outputting the mean and deviation of sensor data.
 
 # AE(AutoEncoder)
 * Reference Code Link 1 : https://github.com/AntixK/PyTorch-VAE (VAE, CVAE)

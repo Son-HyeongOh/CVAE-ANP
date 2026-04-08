@@ -11,6 +11,10 @@
 This dataset is one of two industry-grade datasets captured during an 8-hour continuous operation of the manufacturing assembly line at the Future Factories Lab, University of South Carolina, on 08/13/2024.
 * Link : https://www.kaggle.com/datasets/ramyharik/ff-2024-08-13-multi-modal-dataset-13
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/78d92d80-1a7e-43cd-82d3-5e2b62a76e9c" />
+
+To measure complex anomaly detection performance, the data was classified into four categories.
+
 # Code Description
 
 1. CVAE-ANP : Suggested Model Files

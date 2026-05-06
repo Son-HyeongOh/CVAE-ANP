@@ -63,6 +63,7 @@ C. Anomalous Component Indication: Visually confirming components with anomalous
 
 D. Sensor Data Prediction Deviation: Quantifying uncertainty by outputting the mean and deviation of sensor data.
 
+# Reference
 # AE(AutoEncoder)
 * Reference Code Link : https://github.com/AntixK/PyTorch-VAE (VAE, CVAE)
 * Reference Paper (VAE) : https://arxiv.org/abs/1312.6114

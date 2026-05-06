@@ -1,9 +1,9 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 # CVAE-ANP
-주제 : 오토인코더-ANP 결합 모델을 통한 공정 이상 예측
+Title : CVAE-ANP: Reliable Detection and Diagnosis of Industrial Process Anomalies (Excellence Paper Award, ASK 2026)
 
-저자 : 손형오, 최우성, 이영재, 김재원, 권용현, 김영균
+Author : 손형오, 최우성, 이영재, 김재원, 권용현, 김영균
 
 # Dataset
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3e0b388-6458-413c-b75c-8abdcb4369d9" />

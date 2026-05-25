@@ -5,7 +5,7 @@
 
 - Author : 손형오, 최우성, 이영재, 김재원, 권용현, 김영균
 
-- Link : https://share.google/M0XqHUoZYquIVguGP
+- Link https://www.manuscriptlink.com/society/kips/conference/ask2026/file/downloadSoConfManuscript/abs/KIPS_C2026A0029F
 
 # Dataset
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c3e0b388-6458-413c-b75c-8abdcb4369d9" />

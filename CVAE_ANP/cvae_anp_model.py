@@ -1,6 +1,6 @@
 # ANP와 CVAE의 수정된 모듈을 가져옵니다.
 from ANP.anp_attn_log import NeuralProcess
-from VAE.cvae_v2_fix import ConditionalVAE_v2
+from CVAE.cvae import ConditionalVAE_v2
 import torch.nn as nn
 import torch
 
